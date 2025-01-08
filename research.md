@@ -28,7 +28,7 @@ My research focuses on:
 
 4. **Harita S**, Momi D, Mazza F, Griffiths JD. Mapping Inter-individual Functional Connectivity Variability in TMS Targets for Major Depressive Disorder. 2022. *Frontiers in Psychiatry*. [DOI Link](https://doi.org/10.3389/fpsyt.2022.902089).
 
-5. **Harita S**, Ioachim G, Powers J, Stroman PW. Investigation of Resting-State BOLD Networks in the Human Brainstem and Spinal Cord. 2019. *Neuroscience* [DOI Link](10.1016/j.neuroscience.2019.02.009).
+5. **Harita S**, Ioachim G, Powers J, Stroman PW. Investigation of Resting-State BOLD Networks in the Human Brainstem and Spinal Cord. 2019. *Neuroscience*. [DOI Link](10.1016/j.neuroscience.2019.02.009).
 
 6. **Harita S**, Stroman PW. Confirmation of resting-state BOLD fluctuations in the human brainstem and spinal cord after identification and removal of physiological noise. 2017. *Magnetic Resonance in Medicine*. 2017. [DOI Link](https://doi.org/10.1002/mrm.26606).
    
