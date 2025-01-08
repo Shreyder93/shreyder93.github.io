@@ -20,7 +20,7 @@ My research focuses on:
 
 ## Peer-Reviewed Publications and Preprints
 
-1. **Harita S**, Momi D, Wang Z, Bastiaens SP, Griffiths JD. The Role of Inhibition in fMRI Resting-State Negative Correlations. 2024. *PLoS Computational Biology (submitted; under review* [bioRxiv Link](https://doi.org/10.1101/2024.03.01.583030).
+1. **Harita S**, Momi D, Wang Z, Bastiaens SP, Griffiths JD. The Role of Inhibition in fMRI Resting-State Negative Correlations. 2024. *PLoS Computational Biology (submitted; under review*) [bioRxiv Link](https://doi.org/10.1101/2024.03.01.583030).
    
 2. Morshedzadeh T, Kadak K, Bastiaens SP, Oveisi M, Momi D, Wang Z, **Harita S**, Jaude MA, Aimone CA, Mann S, Hill SL, Griffiths JD. Corticothalamic modelling of sleep neurophysiology with applications to mobile EEG. 2024. *SLEEP*. [bioRxiv Link](https://doi.org/10.1101/2024.02.28.582655). *(Accepted, to be published soon!)*
 
