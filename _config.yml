@@ -1,4 +1,14 @@
-title: Shreyder93's Data Science Portfolio
-description: Health Data Science, Computational Neuroinformatics, and Research Projects
-theme: minima  # or any theme you prefer
-url: "https://shreyder93.github.io"
+title: "Shreyas' Website"
+theme: jekyll-theme-minimal
+description: "My professional and personal portfolio"
+nav:
+  - name: "About"
+    link: "/"
+  - name: "Research"
+    link: "/research"
+  - name: "Trivia"
+    link: "/trivia"
+  - name: "CV"
+    link: "/cv"
+  - name: "Contact"
+    link: "/contact"  
