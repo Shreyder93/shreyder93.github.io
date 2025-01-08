@@ -24,7 +24,7 @@ My research focuses on:
    
 2. Morshedzadeh T, Kadak K, Bastiaens SP, Oveisi M, Momi D, Wang Z, **Harita S**, Jaude MA, Aimone CA, Mann S, Hill SL, Griffiths JD. Corticothalamic modelling of sleep neurophysiology with applications to mobile EEG. 2024. *SLEEP*. [bioRxiv Link](https://doi.org/10.1101/2024.02.28.582655). *(Accepted, to be published soon!)*
 
-3. Abdelhack M, Zhukovsky P, Milic M, **Harita S**, Wainberg M, Tripathy SJ, Griffiths JD, Hill SL, Felsky D. Opposing brain signatures of sleep in task-based and resting-state conditions. 2023. *Nature Communincations*.  [DOI Lin](https://doi.org/10.1038/s41467-023-43737-7).
+3. Abdelhack M, Zhukovsky P, Milic M, **Harita S**, Wainberg M, Tripathy SJ, Griffiths JD, Hill SL, Felsky D. Opposing brain signatures of sleep in task-based and resting-state conditions. 2023. *Nature Communincations*.  [DOI Link](https://doi.org/10.1038/s41467-023-43737-7).
 
 4. **Harita S**, Momi D, Mazza F, Griffiths JD. Mapping Inter-individual Functional Connectivity Variability in TMS Targets for Major Depressive Disorder. 2022. *Frontiers in Psychiatry*. [DOI Link](https://doi.org/10.3389/fpsyt.2022.902089).
 
